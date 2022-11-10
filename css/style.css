@@ -27,8 +27,39 @@ header{
 
 }
 
+.my_card-4{
+    background-color: #1E83C1;
+    height: 320px;
+
+}
+
+.my_card-5{
+    background-color: #0D38B5;
+    height: 320px;
+
+}
+
+.my_card-6{
+    background-color: #CCB2A3;
+    height: 320px;
+
+}
 
 .about{
     background-color: #1BBC9C;
     height: 100%;
+}
+
+.contact_me {
+    height:300px;
+    
+}
+
+footer{
+    background-color: #3A546D;
+    height:200px;
+}
+
+.my_little_footer{
+    background-color: #2D3D50;
 }
