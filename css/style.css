@@ -1,3 +1,28 @@
 header{
-    background-color: blue;
+    background-color: #2D3D50;
+}
+
+
+.jumbo {
+    height:400px;
+    background-color: #1BBC9C;
+
+}
+
+.my_card-1{
+    background-color: #ba4b63;
+    height: 320px;
+
+}
+
+.my_card-2{
+    background-color: #1EA4B6;
+    height: 320px;
+
+}
+
+.my_card-3{
+    background-color: #140F0F;
+    height: 320px;
+
 }
