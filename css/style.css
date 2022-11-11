@@ -1,10 +1,23 @@
-body{
-    margin-top: 72px;
+body { padding-top: 56px; }
 
-}
 
 nav{
     background-color: #2D3D50;
+}
+
+
+img.my_avatar{
+    height: 200px;
+    width: 200px;
+}
+
+.line_left,
+.line_right{
+    width: 80px;
+    height: 4px;
+    background-color:white;
+    margin: .7rem;
+    border-radius: 25px;
 }
 
 
@@ -68,3 +81,13 @@ footer{
 .my_little_footer{
     background-color: #2D3D50;
 }
+
+
+
+@media screen and (max-width: 768px) {
+    body { padding-top: 56px; }
+} 
+
+@media screen and (min-width: 992px) {
+    body { padding-top: 88px; }
+} 
