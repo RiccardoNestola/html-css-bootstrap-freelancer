@@ -107,12 +107,12 @@ height: 320px;
     border: none;
 }
 
-footer{
+.footer_top{
     background-color: #3A546D;
     height:200px;
 }
 
-.my_little_footer{
+.footer_bottom{
     background-color: #2D3D50;
 }
 
