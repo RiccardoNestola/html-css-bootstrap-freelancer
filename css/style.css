@@ -94,9 +94,17 @@ height: 320px;
     height: 100%;
 }
 
-.contact_me {
-    height:300px;
-    
+.my_form-control{
+    border-top: none;
+    border-left: none;
+    border-right: none;
+    border-radius: 0;
+    padding: 0;
+}
+
+.my_button {
+    background-color: #1BBC9C;
+    border: none;
 }
 
 footer{
