@@ -13,8 +13,8 @@ img.my_avatar{
 
 .line,
 .line{
-    width: 80px;
-    height: 4px;
+    width: 120px;
+    height: 2px;
     background-color:black;
     margin: .7rem;
     border-radius: 25px;
