@@ -1,4 +1,9 @@
-header{
+body{
+    margin-top: 72px;
+
+}
+
+nav{
     background-color: #2D3D50;
 }
 
