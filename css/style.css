@@ -107,14 +107,32 @@ height: 320px;
     border: none;
 }
 
+.my_link{
+    color: #1BBC9C;
+    text-decoration: none;
+
+}
 .footer_top{
     background-color: #3A546D;
-    height:200px;
 }
 
 .footer_bottom{
     background-color: #2D3D50;
 }
+
+.my_social_icon i{
+    padding-top: 0.2rem;
+    font-size: 0.8rem;
+    margin: 0 0.3rem;
+    border: 1px solid white;
+    border-radius: 50%;
+    padding: 0.6rem 0.6rem;
+}
+
+.my_social_icon i.fa-facebook-f{
+    padding: 0.6rem 0.8rem;
+}
+
 
 
 
