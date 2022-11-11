@@ -11,27 +11,29 @@ img.my_avatar{
     width: 200px;
 }
 
-.line_left,
-.line_right{
+.line,
+.line{
     width: 80px;
     height: 4px;
-    background-color:white;
+    background-color:black;
     margin: .7rem;
     border-radius: 25px;
 }
 
+.line_light,
+.line_light{
+    background-color:white;
+}
 
-.jumbo {
-    height:400px;
-    background-color: #1BBC9C;
-
+.fa-download {
+    padding-right: .6rem;
 }
 
 
-/* img.my_card-1{
-    width: 100%;
-    height: 100%;
-} */
+.jumbo {
+    background-color: #1BBC9C;
+
+}
 
 
 .my_card-1{
